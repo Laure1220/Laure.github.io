@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "刘悦"
+title                    : "罗惠文"
 title_separator          : "-"
-name                     : &name "刘悦"
+name                     : &name "罗惠文"
 description              : &description "personal description"
-url                      : https://vimotus.github.io/Yueliu_shu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://laure1220.github.io/Laure.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://vimotus.github.io/Yueliu_shu.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "刘悦"
+  name             : "罗惠文"
   avatar           : "yueliu.jpg"
-  bio              : "教授"
+  bio              : "讲师"
   location         : "yueliu@shu.edu.cn"
   employer         :  "+86 21 66135773"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
