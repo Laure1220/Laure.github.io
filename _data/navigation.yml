@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "学术论文"
+  - title: "教学研究"
     url: /publications/
 
   - title: "科研项目"
     url: /talks/    
 
-  - title: "教学研究"
-    url: /teaching/    
-  - title: "学生培养"
+  # - title: "教学研究"
+  #   url: /teaching/    
+  - title: "部门介绍"
     url: /Research Team/
   #- title: "Blog Posts"
   #  url: /year-archive/
