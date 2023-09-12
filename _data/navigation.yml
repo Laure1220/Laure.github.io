@@ -3,13 +3,13 @@ main:
   - title: "教学研究"
     url: /publications/
 
-  - title: "科研项目"
+  - title: "部门介绍"
     url: /talks/    
 
   # - title: "教学研究"
   #   url: /teaching/    
-  - title: "部门介绍"
-    url: /Research Team/
+  # - title: "部门介绍"
+  #   url: /Research Team/
   #- title: "Blog Posts"
   #  url: /year-archive/
   #- title: "CV"
